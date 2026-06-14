@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaneintel.com/sitemap.xml
